@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Influential Social network}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}The number of common friends}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}The persuasive style of the friend}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}The similarity of this individual and the friend}{3}{subsection.2.3}
+\contentsline {section}{\numberline {3}Modeling}{4}{section.3}
+\contentsline {section}{\numberline {4}Conclusion}{4}{section.4}
